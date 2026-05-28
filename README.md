@@ -4,19 +4,6 @@ This project is a simple breadboard power supply PCB made in KiCad. It is design
 
 The board includes a barrel jack input, an on/off slide switch, voltage regulators, output headers, screw terminals, and a power indicator LED. The schematic uses a 12 V input label, a fixed 5 V regulator, and an LM317 regulator set up for a 3.3 V output.
 
-## Project Images
-
-These photos show the breadboard power supply project.
-
-![Breadboard power supply photo 1](img/1759331978309.jfif)
-
-![Breadboard power supply photo 2](img/1759332013281.jfif)
-
-![Breadboard power supply photo 3](img/1759332022775.jfif)
-
-![Breadboard power supply photo 4](img/1759332033750.jfif)
-
-![Breadboard power supply photo 5](img/1759332048909.jfif)
 
 ## What This Board Does
 
@@ -114,3 +101,17 @@ This board is intended for low-voltage electronics experiments. Do not connect i
 ## Author
 
 Designed by Jit Dey.
+
+## Project Images
+
+These photos show the breadboard power supply project.
+
+![Breadboard power supply photo 1](img/1759331978309.jfif)
+
+![Breadboard power supply photo 2](img/1759332013281.jfif)
+
+![Breadboard power supply photo 3](img/1759332022775.jfif)
+
+![Breadboard power supply photo 4](img/1759332033750.jfif)
+
+![Breadboard power supply photo 5](img/1759332048909.jfif)
